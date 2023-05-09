@@ -1,0 +1,47 @@
+                     Internet, Roteadores e servidores
+
+# O que é a Internet ?
+- a internet são rede interligadas pelo mundo todo.
+- Uma rede tem como objetivo interliga computadores para fornecer aos usuários acesso a diversas informações.
+- As internet é feita de cabos que conectam o mundo inteiro.
+
+---------------------------------------------------------------
+
+# O que é rede de computadores e comunicações ?
+- a internet pode "Cair"?
+- Rede de computadores é a conexão de dispositivos para permitir a transmissão de dados.
+- A comunicação na internet é feita de protocolos(conjunto de regras).
+
+---------------------------------------------------------------
+
+# O que são IP e MAC Anddress ?
+- Internet protocol é um número indentificador dado ao seu computador, ou roteador, pelo provedor de internet no momento que se conecta a rede.
+- MAC Address è um número de série indentificador gravado no dispositivo de rede.
+- Através do IP que seu computador pode enviar e receber dados na internet.
+
+---------------------------------------------------------------
+
+# O que são servidores ?
+- Um servidor é um computador equipado com um ou mais processadores, portas de comunicações, software, algum sistema para amazemento de dados como HDs e/ou SSDs.
+- Fornece serviços a uma rede de computadores, chamada de cliente. Esses serviços podem ser, por exemplo, hospedagem de site, provedor de emails, entre outros.
+
+---------------------------------------------------------------
+
+# O que é DNS ?
+- Os servidores DNS (Domain Name System, ou sistema de nomes de domínios) são os responsáveis por localizar e traduzir para números IP os endereços dos sites que digitamos nos navegadores.
+- O DNS permite que você acesse um site digitando um endereço nominal em lugar de números e pontos.
+
+---------------------------------------------------------------
+
+# O que è HTTP ?
+- Hypertext Transfer Protocol, Sigla HTTP.
+- HTTP é um protocolo de transferência de dados
+- No momento que o usúario digita uma URL em algum navegador, o navegador cria uma requisição HTTP e manda o servidor correspondete ao IP da URL e então o servidor responde atráves do HTTP enviando todas os dados necessários para exibir o site ao usúario no navegador.
+- O HTTPS - Hypertext Transfer Protocol secure adiciona uma criptografia as informações enviadas ou recebidas de um site.
+
+----------------------------------------------------------------------
+
+
+
+
+

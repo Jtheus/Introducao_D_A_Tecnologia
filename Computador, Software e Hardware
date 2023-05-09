@@ -1,0 +1,68 @@
+                       Computador, Software e Hardware
+O que é Hardware ?
+O Hardware é um termo técnico que se refere à parte fisica de computadores e outros sistemas micro-eletronicos.
+
+O que são periféricos ?
+É um dispositivo auxiliar usado para evitar ou receber informações do computador.
+
+----------------------------------------------------------------------
+
+O que é Software ?
+- Um conjunto de instruções que permite controlar um aparelho eletrônico.
+- Parte Lógica do computador
+
+----------------------------------------------------------------------
+
+O que é Firmware ?
+- A função do Firmware é armazenar todas as informações para que o equipamento funcione corretamente.
+- O Firmware é armazenado permanentemente num circulo integrador(Chip) de memória de hardware no momento da fabricação do componente.
+
+----------------------------------------------------------------------
+
+O que é Drivers ?
+- A função do Drivers é ser ponte entre o sistema operacional e o firmware dos dispositivos eletrônicos.
+- O driver é instalado no computador quando há necessidade de se conectar com um novo dispositivo.
+
+----------------------------------------------------------------------
+
+O que são Sistemas operacionais ?
+Um sistema operacional é responsável pelo gerenciamento de todo o hardware do seu computador. É ele que vaidizzer, por exemplo, para o programa em execeção, quando poderá ultilizar o processador e por quando tempo, quanto de memória RAM será usada, gerenciamento de SSD/HD, etc.
+
+----------------------------------------------------------------------
+
+O que são programas ?
+# Software --> Programa de Computador
+# Program --> Programa de computador ou aplicativo
+
+- Um programa é um conjunto de instruções que descrevem uma tarefa e/ou trabalho especifico no seu computador.
+- São ferramentas desenhadas para realizar ações.
+
+----------------------------------------------------------------------
+
+O que são memoria RAM ?
+- A memória RAM é um espaço temporário de informações do sistema operacional e de aplicativos em uso.
+- Quando uma tarefa é concluida por algum Software, os arquivos que estavam em uso são movidoa da memória RAM o HD ou SSD para serem mantidas.
+- Quando o computador é desligado a memória é limpa automático.
+
+----------------------------------------------------------------------
+
+O que são HD/SSD ?
+- O HD e o SSD são dispositivos de armazenamento de dados.
+- O HD usa pratos mecânicos e um cabeçote móvel de leitura/gravação para acessar dados.
+- O SSD não possui partes móveis, apenas chips de memória.
+- Independentemente se o computador está desligado ou não, as informações contidas no HD ou SSD permanece guardadas.
+
+----------------------------------------------------------------------
+
+O que são Processadores ?
+- O processador é o cerébro do computador.
+- Transforma informações em uma linguagem que o computador entende --> 0101.
+- Tem o formato de um chip.
+- Ele transforma dados em informções, por exemplo, carregar páginas, fazer downloads, abrir arquivos e executar programas.
+- A velocidade que seu computador abre ou exeuta programas é em parte responsabilidade do processador.
+
+----------------------------------------------------------------------
+
+
+
+

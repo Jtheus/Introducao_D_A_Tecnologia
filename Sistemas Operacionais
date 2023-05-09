@@ -1,0 +1,78 @@
+                          Sistemas Operacionais
+# O que é um sistema Operacional ?
+- Interface entre o usúario e a máquina.
+- Programa que íra controlar seu aparelho(Computador,Celular)
+  & Gerenciamento de dispositivos (Hardware)
+  & Gerenciamento de aplicativos e programas(Software)
+  & Gerenciamento de tarefas
+- Conversar com o computador em linguagens de máquina
+
+----------------------------------------------------------------------
+
+# Caracterìsticas e objetivo
+1. Fácil entendimento para Usúario
+- Experiência do usúario
+
+2. Controle de Hardware
+- Uso dos periféricos
+- memória
+- HD
+
+3.Gerenciamento dos Software
+-Programas
+
+----------------------------------------------------------------------
+
+# Grupos de Sistemas Operacionais
+Os dois grupos mais conhecidos são:
+
+@ Unix                              @ Windowns
+- Linux                             - Windowns 7
+- OS X                              - Windowns 10
+- Android                           - Windowns Server
+- IOS
+
+----------------------------------------------------------------------
+
+# Tipos de interface do usuário
+- GUI
+  & Graphical User Interface
+  & Interface gráfica, elemento gráficos
+    @ Curso do mouse ou touch
+    @ Área de trabalho...
+    @ Criar arquivos e pastas
+- CLI
+  & Command-Line Interface
+  & Linha de comando
+  & Emitir comandos em texto para o computador
+    @ Criar arquivos epastas, por exemplo,
+
+----------------------------------------------------------------------
+
+# Módulos
+O sistema Operacional é basicamente dividido por alguns módulos.
+1. Kernel
+2. Gerenciamento de processos
+3. Gerenciamento de arquivos
+
+----------------------------------------------------------------------
+
+# O kernel
+- O componente central, o cerne do S.O
+- Primeiro módulo a ser iniciado
+- Permanece executando enquanto o S.O estiver ligado
+
+RESPONSABILIDADES
+- Gerenciamento da memória, processos, armazenamento e dispositivos.
+
+----------------------------------------------------------------------
+
+# O gerenciamento de Processos
+- Processo é um programa em execução
+- Agendamento de processos (shedeuling)
+  & Qual processo está executando agora
+
+- Thread
+  & A divisão de um processo para melhor perfomance
+  & Um pedacinho do processo
+  & Poderá executar em Paralelo

@@ -1,0 +1,60 @@
+                              INICIO DE TUDO
+# Como funciona a web ?
+
+Você quer entrar em um site, entt abre o seu navegador, tem dois modos de abrir o site que são:
+
+1 ) O caminho Simples: Você digita o site: rocketseat.com.br
+Você vê o site da Rocket.
+
+----------------------------------------------------------------------
+
+2 ) O caminho Avançado: Você digita a URL: https://rocketseat.com.br
+
+# Protocolo:
+HTTP - Hypertext Transfer Protocol
+Funções - Trocar mensagens entre computadores
+Mensagens - a mensagem é quebrada em diversos pedaços (chunks)
+
+URL - Uniform Resource Locator
+Localizador e indentificador de um recurso
+recurso, nesse caso, é o site
+
+----------------------------------------------------------------------
+
+E iniciada uma linha de comunicação, atráves do protocolo TCP, entre o seu computador que tem a página (Servidor)
+
+Cliente - O computador, dispositivo ou aplicativo que fez o pedido , browser
+
+TCP significa - Transmission Control Protocol
+E a função é: Garantir que os pacotes cheguem corretamente ao destino
+
+----------------------------------------------------------------------
+
+O endereço é convertido em um IP(76.76.21.21) atráves do DNS
+IP significa - Internet Protocol
+E tem como função - endereçamento dos computadores
+
+DNS significa - Dominian Name severs
+Sua função é: Converter um dominio em um endereço de IP.
+
+----------------------------------------------------------------------
+
+Seu pedido está percorrendo diversos proxy
+O que é Proxy?
+Qualquer dispositivo no meio do caminho
+modem, Roteador, outros computadores
+Função: Encaminhamento dos Pacotes
+
+----------------------------------------------------------------------
+
+Até seu pedido chega até o Servidor, entt se o Servidor estiver atualizado, ele vai analisar seu pedido e te dá uma resposta, neste caso, positiva, e se caso for positiva ele vai retorna o caminho de volta é semelhante ao de idá e de volta, passando pela linha de comunicação que foi criada, entt o browser vai receber os pedaços e monta a tela do site pra você.
+E esse processo acontecemuitas vezes pois para cada recurso(html,css,javascript,imagem...) é feita uma nova conexão.
+
+----------------------------------------------------------------------
+
+
+
+
+
+
+
