@@ -1,0 +1,99 @@
+                            Tipos de Aplicações WEB
+
+#  WEBPAGE
+- Página WEB
+- Acessado pelo navegador
+- Encontro pelo endereço universal URL
+- Resposta dada pelo servidor é uma cópia da página
+  > HTML - Hyper Text Markup Language
+  > CSS - Cascading Style Sheet
+  > JavaScript
+
+----------------------------------------------------------------------
+
+# WEBSITE
+- Sites
+- Agrupamentos, estruturado(arquitetado) de vários páginas WEB
+- Pode ser:
+  > Estático
+  > Dinâmico
+- Um usúario comum não sabe diferenciar entre estático e Dinâmico.
+
+----------------------------------------------------------------------
+
+# WEBSITE ESTÁTICO
+- Página estáticas
+  > A página é sempre a mesma
+  > Alteração direito no código e por quem a criou
+- Não interage com o banco de dados
+
+----------------------------------------------------------------------
+
+# WEB APPLICATION
+
+- Um programa, um software que vive no servidor
+  > Linguagens de programação
+  > Banco de dados
+- Ultilizado através de páginas WEB e pelo navegador
+- É mais complexo e possui mais requisitos
+- Exemplo: Facebook, Gmail, Youtube, Figma...
+
+----------------------------------------------------------------------
+
+# Desafios
+- Adaptação nos diversos dispositivos (Responsividade)
+- Perfomance
+- Acessibilidade
+  > Visual, Auditiva, SEO
+
+----------------------------------------------------------------------
+
+                        FRONT-END VS BACK-END
+
+# FRONT-END
+- Cliente(Client-side)
+- Browser
+  > Digita a URL e faz um pedido(request) para o servidor
+- Tecnologias
+  > HTML, CSS, JavaScript, IMAGENS
+  > FRAMEWORKS E BIBLIOTECAS
+
+----------------------------------------------------------------------
+
+# BACK-END
+- servidor(server-side)
+- Recebe o pedido do front-end
+  > Entende e processa o pedido e devolve para o front-end
+  > Regras de negócios da aplicação
+- Tecnologias
+  > PHP, Java, Python, JavaScript
+  > Banco de dados
+
+----------------------------------------------------------------------
+
+# APLICAÇÃO WEB TRADICIONAL
+- Recarregar a página para ter conteúdo atualizado
+- Front-End e o back-end numa só aplicação
+- Servidor processa e devolve toda a página de uma só vez
+
+----------------------------------------------------------------------
+
+# SPA
+- Single Page Application
+  > A sensação é ter uma única página
+- Não precisa recarregar a página para ter o conteúdo atualizado
+- Front-end e back-end são aplicações diferentes
+- Servidor responde a aplicação front-end
+  > Front-End feito com o uso de FRAMEWORKS
+  > Back-end é o formato da API
+
+----------------------------------------------------------------------
+
+# ALINHAMENTO DE JORNADA
+1. Sites estáticas
+2. Aoplicação WEB tradicional
+3. Single Page Application
+
+
+
+

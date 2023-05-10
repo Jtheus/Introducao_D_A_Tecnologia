@@ -1,0 +1,110 @@
+                         Linguagem de Programação
+# O QUE É CODAR ?
+- Escrever para o computador
+- Seguir regras
+- Linguagem humana x máquina
+
+-----------------------------------------------------------------------
+
+# Imagine que ...
+Você precisa desbloquear seu celular
+Ver codigo
+
+   if (input === passaword){
+     unlockPhone()
+   } else {
+     tryAgain()
+   }
+
+----------------------------------------------------------------------
+
+# CURIOSIDADES SOBRE CODAR
+- A pessoa que cria códigos.
+  > Programadora. Desenvolvedora, Dev, Developer
+- Código vs Programa
+- Códigos são comando, ordens, instruções ao computador
+- O computador provavelmente irá traduzir o seu código
+- existem códigos em muitos eletrônicos
+  > Microondas, Semáforos, roteadores, avião....
+
+----------------------------------------------------------------------
+
+# LINGUAGEM DE PROGRAMAÇÃO ?
+usada para dar instruções ao computador
+
+# Computador
+Imagine o computador
+- Input e Output
+- Executa tarefa e faz calculos
+- Mas ele só entende uma língua: A binária
+
+----------------------------------------------------------------------
+
+# Binária
+- (Zero e Uns:01010101)
+- Ligado e desligado
+- Bilhões de disjuntores que ligam e desligam
+- Mas é impossivel para o ser humano, escrever bilhões de 0 -1
+
+----------------------------------------------------------------------
+
+# Abstração
+- Transformação de linguagens
+- Podemos entender uma linguagem de programação
+- O computador também pode entender
+- Nós precisamos aprender a linguagem de programação
+  > Inglês
+  > Existem inúmeras
+  > São ferramentas para um determinado objetivo
+    * Games, I.A, Machine Learning, WEB
+
+----------------------------------------------------------------------
+
+# LOW - LEVEL VS HIGH - LEVEL
+
+# Low - Level
+
+- Significa baixo nível
+- Mais próxima da máquina, do binário
+  > É mais dificil de escrver e de Ler
+  > É mais rápida
+- Existem pouca interferẽncia de tradução
+- A programação começou pelo baixo nivel
+- Exemplo:
+  > Assembly
+
+----------------------------------------------------------------------
+
+# High-Level
+- Significa alto nivel
+- Mais próxima da comunicação humanas
+  > If, Else, Funcion, Object, class....
+- Leva mais tempo para a máquina traduzir e entender
+  > Compilar ou interpretar
+  > Nada amsi que milissegundos
+- Exemplos
+  > JavaScript, Python, Rust...
+
+----------------------------------------------------------------------
+
+                           SINTAXE
+
+- Conjunto de regras de escritas.
+- Cada linguagem tem as suas regras.
+- Simbolos
+  > {}  ()  ;  =  ++ --
+- Palavras reservadas
+  > if, else, while, for, var, let, const
+
+---------------------------------------------------------------------
+
+                          CONCLUSÃO
+
+- Dizer ao computador o que fazer
+- Traduzir pensamentos
+- Resolver problemas
+- ferramenta
+- Programar é facilitar a comunicação entre humanidade e máquinas.
+
+---------------------------------------------------------------------
+
